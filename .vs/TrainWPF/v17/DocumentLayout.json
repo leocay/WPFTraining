@@ -1,0 +1,208 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\HocTap\\CSharp\\TrainWPF\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F1F386DE-7295-4059-A9AB-EE82FFE77F55}|TrainWPF\\TrainWPF.csproj|d:\\hoctap\\csharp\\trainwpf\\trainwpf\\customviews\\agiviews\\agiview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{F1F386DE-7295-4059-A9AB-EE82FFE77F55}|TrainWPF\\TrainWPF.csproj|solutionrelative:trainwpf\\customviews\\agiviews\\agiview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1F386DE-7295-4059-A9AB-EE82FFE77F55}|TrainWPF\\TrainWPF.csproj|d:\\hoctap\\csharp\\trainwpf\\trainwpf\\mainview\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{F1F386DE-7295-4059-A9AB-EE82FFE77F55}|TrainWPF\\TrainWPF.csproj|solutionrelative:trainwpf\\mainview\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{649E20DF-D91F-42E0-AA48-F367BA01F14A}|Models\\Models.csproj|d:\\hoctap\\csharp\\trainwpf\\models\\viewcontrolmodels\\sidebarmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{649E20DF-D91F-42E0-AA48-F367BA01F14A}|Models\\Models.csproj|solutionrelative:models\\viewcontrolmodels\\sidebarmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF18181E-D3C4-4E3E-98CD-C4CEC03C79BE}|Views\\Views.csproj|d:\\hoctap\\csharp\\trainwpf\\views\\intelviews\\intelview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{DF18181E-D3C4-4E3E-98CD-C4CEC03C79BE}|Views\\Views.csproj|solutionrelative:views\\intelviews\\intelview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF18181E-D3C4-4E3E-98CD-C4CEC03C79BE}|Views\\Views.csproj|d:\\hoctap\\csharp\\trainwpf\\views\\intelviews\\intelview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF18181E-D3C4-4E3E-98CD-C4CEC03C79BE}|Views\\Views.csproj|solutionrelative:views\\intelviews\\intelview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{212576A5-483C-410E-BD99-159C0E9FF294}|ViewModels\\ViewModels.csproj|d:\\hoctap\\csharp\\trainwpf\\viewmodels\\mainviewmodels\\mainviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{212576A5-483C-410E-BD99-159C0E9FF294}|ViewModels\\ViewModels.csproj|solutionrelative:viewmodels\\mainviewmodels\\mainviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{212576A5-483C-410E-BD99-159C0E9FF294}|ViewModels\\ViewModels.csproj|d:\\hoctap\\csharp\\trainwpf\\viewmodels\\mainviewmodels\\quartzscheduler\\addperfivemin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{212576A5-483C-410E-BD99-159C0E9FF294}|ViewModels\\ViewModels.csproj|solutionrelative:viewmodels\\mainviewmodels\\quartzscheduler\\addperfivemin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{212576A5-483C-410E-BD99-159C0E9FF294}|ViewModels\\ViewModels.csproj|d:\\hoctap\\csharp\\trainwpf\\viewmodels\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{212576A5-483C-410E-BD99-159C0E9FF294}|ViewModels\\ViewModels.csproj|solutionrelative:viewmodels\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1F386DE-7295-4059-A9AB-EE82FFE77F55}|TrainWPF\\TrainWPF.csproj|d:\\hoctap\\csharp\\trainwpf\\trainwpf\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1F386DE-7295-4059-A9AB-EE82FFE77F55}|TrainWPF\\TrainWPF.csproj|solutionrelative:trainwpf\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1F386DE-7295-4059-A9AB-EE82FFE77F55}|TrainWPF\\TrainWPF.csproj|d:\\hoctap\\csharp\\trainwpf\\trainwpf\\mainview\\mainwindow.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}|",
+      "RelativeMoniker": "D:0:0:{F1F386DE-7295-4059-A9AB-EE82FFE77F55}|TrainWPF\\TrainWPF.csproj|solutionrelative:trainwpf\\mainview\\mainwindow.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AgiView.xaml",
+              "DocumentMoniker": "D:\\HocTap\\CSharp\\TrainWPF\\TrainWPF\\CustomViews\\AgiViews\\AgiView.xaml",
+              "RelativeDocumentMoniker": "TrainWPF\\CustomViews\\AgiViews\\AgiView.xaml",
+              "ToolTip": "D:\\HocTap\\CSharp\\TrainWPF\\TrainWPF\\CustomViews\\AgiViews\\AgiView.xaml",
+              "RelativeToolTip": "TrainWPF\\CustomViews\\AgiViews\\AgiView.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-08-12T15:51:09.083Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SideBarModel.cs",
+              "DocumentMoniker": "D:\\HocTap\\CSharp\\TrainWPF\\Models\\ViewControlModels\\SideBarModel.cs",
+              "RelativeDocumentMoniker": "Models\\ViewControlModels\\SideBarModel.cs",
+              "ToolTip": "D:\\HocTap\\CSharp\\TrainWPF\\Models\\ViewControlModels\\SideBarModel.cs",
+              "RelativeToolTip": "Models\\ViewControlModels\\SideBarModel.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAQwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-12T15:50:57.479Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IntelView.xaml",
+              "DocumentMoniker": "D:\\HocTap\\CSharp\\TrainWPF\\Views\\IntelViews\\IntelView.xaml",
+              "RelativeDocumentMoniker": "Views\\IntelViews\\IntelView.xaml",
+              "ToolTip": "D:\\HocTap\\CSharp\\TrainWPF\\Views\\IntelViews\\IntelView.xaml",
+              "RelativeToolTip": "Views\\IntelViews\\IntelView.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-08-12T15:50:49.304Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IntelView.xaml.cs",
+              "DocumentMoniker": "D:\\HocTap\\CSharp\\TrainWPF\\Views\\IntelViews\\IntelView.xaml.cs",
+              "RelativeDocumentMoniker": "Views\\IntelViews\\IntelView.xaml.cs",
+              "ToolTip": "D:\\HocTap\\CSharp\\TrainWPF\\Views\\IntelViews\\IntelView.xaml.cs",
+              "RelativeToolTip": "Views\\IntelViews\\IntelView.xaml.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-12T15:50:46.464Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "App.xaml.cs",
+              "DocumentMoniker": "D:\\HocTap\\CSharp\\TrainWPF\\TrainWPF\\App.xaml.cs",
+              "RelativeDocumentMoniker": "TrainWPF\\App.xaml.cs",
+              "ToolTip": "D:\\HocTap\\CSharp\\TrainWPF\\TrainWPF\\App.xaml.cs",
+              "RelativeToolTip": "TrainWPF\\App.xaml.cs",
+              "ViewState": "AQIAAC0AAAAAAAAAAAAowBgAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-12T15:36:02.706Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "DependencyInjection.cs",
+              "DocumentMoniker": "D:\\HocTap\\CSharp\\TrainWPF\\ViewModels\\DependencyInjection.cs",
+              "RelativeDocumentMoniker": "ViewModels\\DependencyInjection.cs",
+              "ToolTip": "D:\\HocTap\\CSharp\\TrainWPF\\ViewModels\\DependencyInjection.cs",
+              "RelativeToolTip": "ViewModels\\DependencyInjection.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-12T14:33:21.326Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AddPerFiveMin.cs",
+              "DocumentMoniker": "D:\\HocTap\\CSharp\\TrainWPF\\ViewModels\\MainViewModels\\QuartzScheduler\\AddPerFiveMin.cs",
+              "RelativeDocumentMoniker": "ViewModels\\MainViewModels\\QuartzScheduler\\AddPerFiveMin.cs",
+              "ToolTip": "D:\\HocTap\\CSharp\\TrainWPF\\ViewModels\\MainViewModels\\QuartzScheduler\\AddPerFiveMin.cs",
+              "RelativeToolTip": "ViewModels\\MainViewModels\\QuartzScheduler\\AddPerFiveMin.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABcAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-12T14:28:11.084Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MainViewModel.cs",
+              "DocumentMoniker": "D:\\HocTap\\CSharp\\TrainWPF\\ViewModels\\MainViewModels\\MainViewModel.cs",
+              "RelativeDocumentMoniker": "ViewModels\\MainViewModels\\MainViewModel.cs",
+              "ToolTip": "D:\\HocTap\\CSharp\\TrainWPF\\ViewModels\\MainViewModels\\MainViewModel.cs",
+              "RelativeToolTip": "ViewModels\\MainViewModels\\MainViewModel.cs",
+              "ViewState": "AQIAAEIAAAAAAAAAAAAowDkAAAA8AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-09T16:14:38.747Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "FloatingWindowState": {
+        "Id": "0f537515-6aa5-481d-9202-b3524b44128d",
+        "Display": 0,
+        "X": 751,
+        "Y": 232,
+        "Width": 1484,
+        "Height": 805,
+        "WindowState": 2
+      },
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "D:\\HocTap\\CSharp\\TrainWPF\\TrainWPF\\MainView\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "TrainWPF\\MainView\\MainWindow.xaml.cs",
+              "ToolTip": "D:\\HocTap\\CSharp\\TrainWPF\\TrainWPF\\MainView\\MainWindow.xaml.cs",
+              "RelativeToolTip": "TrainWPF\\MainView\\MainWindow.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-08T16:33:23.898Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "D:\\HocTap\\CSharp\\TrainWPF\\TrainWPF\\MainView\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "TrainWPF\\MainView\\MainWindow.xaml",
+              "ToolTip": "D:\\HocTap\\CSharp\\TrainWPF\\TrainWPF\\MainView\\MainWindow.xaml",
+              "RelativeToolTip": "TrainWPF\\MainView\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-08-08T15:04:20.724Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

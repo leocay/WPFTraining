@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup />
+  <ItemGroup>
+    <Compile Update="AgiViews\AgiView.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="IntelViews\IntelView.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="StrViews\StrView.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="VitViews\VitView.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <Page Update="AgiViews\AgiView.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="IntelViews\IntelView.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="StrViews\StrView.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="VitViews\VitView.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+  </ItemGroup>
+</Project>
