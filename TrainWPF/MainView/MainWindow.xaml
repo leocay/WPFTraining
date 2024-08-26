@@ -15,22 +15,29 @@
             <ColumnDefinition Width="*" />
             <ColumnDefinition Width="3*" />
         </Grid.ColumnDefinitions>
-        <ListView 
+        <ListView
             Grid.Column="0"
-            ItemsSource="{Binding SideBarModel.SideBarItemList ,Mode=TwoWay}" 
-            SelectedItem="{Binding SideBarModel.SideBarItemSelected ,Mode = TwoWay}"/>
+            ItemsSource="{Binding SideBarModel.SideBarItemList, Mode=TwoWay}"
+            SelectedItem="{Binding SideBarModel.SideBarItemSelected, Mode=TwoWay}" />
 
         <ContentControl
             x:Name="ContentBag"
             Grid.Column="1"
-            Content="{Binding CurrentView, Mode=TwoWay}"/>
+            Content="{Binding CurrentView, Mode=TwoWay}" />
 
-        <Button Grid.Column="1"
-                Height="100"
-                Width="100"
-                Content="Add"
-                Command="{Binding SetCurrentViewCommand}">
-            
-        </Button>
+        <Button
+            Grid.Column="0"
+            Width="100"
+            Height="100"
+            Command="{Binding SetCurrentViewCommand}"
+            Content="Login" />
+
+
+        <Button
+            Grid.Column="1"
+            Width="100"
+            Height="100"
+            Command="{Binding ConnectCommand}"
+            Content="Conect" />
     </Grid>
 </Window>

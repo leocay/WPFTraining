@@ -2,6 +2,7 @@
 using ViewModels.MainViewModels.QuartzScheduler;
 using Microsoft.Extensions.DependencyInjection;
 using Quartz;
+using ViewModels.SignalR;
 
 namespace ViewModels;
 
@@ -10,7 +11,7 @@ public static class DependencyInjection
     public static IServiceCollection AddViewModels(this IServiceCollection services)
     {
         services.AddSingleton<MainViewModel>();
-
+        services.AddSingleton<ServerConnection>();
         services.AddQuartz(q =>
         {
             var jobKey = new JobKey("myJob", "group1");
