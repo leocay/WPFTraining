@@ -154,15 +154,25 @@
       "System.Diagnostics.DiagnosticSource/8.0.0": {},
       "Models/1.0.0": {
         "dependencies": {
-          "CommunityToolkit.Mvvm": "8.2.2"
+          "CommunityToolkit.Mvvm": "8.2.2",
+          "Microsoft.Extensions.DependencyInjection.Abstractions": "8.0.1"
         },
         "runtime": {
-          "Models.dll": {}
+          "Models.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
         }
       },
       "Views/1.0.0": {
+        "dependencies": {
+          "Microsoft.Extensions.DependencyInjection.Abstractions": "8.0.1"
+        },
         "runtime": {
-          "Views.dll": {}
+          "Views.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
         }
       }
     }

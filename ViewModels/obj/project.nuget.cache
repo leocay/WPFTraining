@@ -1,22 +1,22 @@
 {
   "version": 2,
-  "dgSpecHash": "RujeH0vTXOo=",
+  "dgSpecHash": "Ou7sZ01r68Q=",
   "success": true,
-  "projectFilePath": "D:\\HocTap\\CSharp\\TrainWPF\\ViewModels\\ViewModels.csproj",
+  "projectFilePath": "D:\\LINH\\DEV\\WPFTraining\\ViewModels\\ViewModels.csproj",
   "expectedPackageFiles": [
-    "D:\\NugetDownLoad\\communitytoolkit.mvvm\\8.2.2\\communitytoolkit.mvvm.8.2.2.nupkg.sha512",
-    "D:\\NugetDownLoad\\microsoft.extensions.configuration.abstractions\\8.0.0\\microsoft.extensions.configuration.abstractions.8.0.0.nupkg.sha512",
-    "D:\\NugetDownLoad\\microsoft.extensions.dependencyinjection.abstractions\\8.0.1\\microsoft.extensions.dependencyinjection.abstractions.8.0.1.nupkg.sha512",
-    "D:\\NugetDownLoad\\microsoft.extensions.diagnostics.abstractions\\8.0.0\\microsoft.extensions.diagnostics.abstractions.8.0.0.nupkg.sha512",
-    "D:\\NugetDownLoad\\microsoft.extensions.fileproviders.abstractions\\8.0.0\\microsoft.extensions.fileproviders.abstractions.8.0.0.nupkg.sha512",
-    "D:\\NugetDownLoad\\microsoft.extensions.hosting.abstractions\\8.0.0\\microsoft.extensions.hosting.abstractions.8.0.0.nupkg.sha512",
-    "D:\\NugetDownLoad\\microsoft.extensions.logging.abstractions\\8.0.0\\microsoft.extensions.logging.abstractions.8.0.0.nupkg.sha512",
-    "D:\\NugetDownLoad\\microsoft.extensions.options\\8.0.0\\microsoft.extensions.options.8.0.0.nupkg.sha512",
-    "D:\\NugetDownLoad\\microsoft.extensions.primitives\\8.0.0\\microsoft.extensions.primitives.8.0.0.nupkg.sha512",
-    "D:\\NugetDownLoad\\quartz\\3.13.0\\quartz.3.13.0.nupkg.sha512",
-    "D:\\NugetDownLoad\\quartz.extensions.dependencyinjection\\3.13.0\\quartz.extensions.dependencyinjection.3.13.0.nupkg.sha512",
-    "D:\\NugetDownLoad\\quartz.extensions.hosting\\3.13.0\\quartz.extensions.hosting.3.13.0.nupkg.sha512",
-    "D:\\NugetDownLoad\\system.diagnostics.diagnosticsource\\8.0.0\\system.diagnostics.diagnosticsource.8.0.0.nupkg.sha512"
+    "C:\\Users\\linht\\.nuget\\packages\\communitytoolkit.mvvm\\8.2.2\\communitytoolkit.mvvm.8.2.2.nupkg.sha512",
+    "C:\\Users\\linht\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\8.0.0\\microsoft.extensions.configuration.abstractions.8.0.0.nupkg.sha512",
+    "C:\\Users\\linht\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.1\\microsoft.extensions.dependencyinjection.abstractions.8.0.1.nupkg.sha512",
+    "C:\\Users\\linht\\.nuget\\packages\\microsoft.extensions.diagnostics.abstractions\\8.0.0\\microsoft.extensions.diagnostics.abstractions.8.0.0.nupkg.sha512",
+    "C:\\Users\\linht\\.nuget\\packages\\microsoft.extensions.fileproviders.abstractions\\8.0.0\\microsoft.extensions.fileproviders.abstractions.8.0.0.nupkg.sha512",
+    "C:\\Users\\linht\\.nuget\\packages\\microsoft.extensions.hosting.abstractions\\8.0.0\\microsoft.extensions.hosting.abstractions.8.0.0.nupkg.sha512",
+    "C:\\Users\\linht\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\8.0.0\\microsoft.extensions.logging.abstractions.8.0.0.nupkg.sha512",
+    "C:\\Users\\linht\\.nuget\\packages\\microsoft.extensions.options\\8.0.0\\microsoft.extensions.options.8.0.0.nupkg.sha512",
+    "C:\\Users\\linht\\.nuget\\packages\\microsoft.extensions.primitives\\8.0.0\\microsoft.extensions.primitives.8.0.0.nupkg.sha512",
+    "C:\\Users\\linht\\.nuget\\packages\\quartz\\3.13.0\\quartz.3.13.0.nupkg.sha512",
+    "C:\\Users\\linht\\.nuget\\packages\\quartz.extensions.dependencyinjection\\3.13.0\\quartz.extensions.dependencyinjection.3.13.0.nupkg.sha512",
+    "C:\\Users\\linht\\.nuget\\packages\\quartz.extensions.hosting\\3.13.0\\quartz.extensions.hosting.3.13.0.nupkg.sha512",
+    "C:\\Users\\linht\\.nuget\\packages\\system.diagnostics.diagnosticsource\\8.0.0\\system.diagnostics.diagnosticsource.8.0.0.nupkg.sha512"
   ],
   "logs": []
 }

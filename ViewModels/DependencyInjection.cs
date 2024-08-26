@@ -18,7 +18,8 @@ public static class DependencyInjection
             q.AddTrigger(opts => opts
                 .ForJob(jobKey)
                 .WithIdentity("myTrigger", "group1")
-                .WithCronSchedule("0 0,15,30,45 8-23 ? * *"));
+                .WithCronSchedule("0 * * ? * *"));
+                //.WithCronSchedule("0 22,23,24,25,26,27 8-23 ? * *"));
         });
 
         services.AddQuartzHostedService(q => q.WaitForJobsToComplete = true);

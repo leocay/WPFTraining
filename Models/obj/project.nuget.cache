@@ -1,10 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "OIWtFJHk3P0=",
+  "dgSpecHash": "kjBg6ywWVxY=",
   "success": true,
-  "projectFilePath": "D:\\HocTap\\CSharp\\TrainWPF\\Models\\Models.csproj",
+  "projectFilePath": "D:\\LINH\\DEV\\WPFTraining\\Models\\Models.csproj",
   "expectedPackageFiles": [
-    "D:\\NugetDownLoad\\communitytoolkit.mvvm\\8.2.2\\communitytoolkit.mvvm.8.2.2.nupkg.sha512"
+    "C:\\Users\\linht\\.nuget\\packages\\communitytoolkit.mvvm\\8.2.2\\communitytoolkit.mvvm.8.2.2.nupkg.sha512",
+    "C:\\Users\\linht\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.1\\microsoft.extensions.dependencyinjection.abstractions.8.0.1.nupkg.sha512"
   ],
   "logs": []
 }

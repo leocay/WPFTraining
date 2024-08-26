@@ -13,3 +13,16 @@ D:\HocTap\CSharp\TrainWPF\Models\obj\Debug\net8.0-windows\Models.dll
 D:\HocTap\CSharp\TrainWPF\Models\obj\Debug\net8.0-windows\refint\Models.dll
 D:\HocTap\CSharp\TrainWPF\Models\obj\Debug\net8.0-windows\Models.pdb
 D:\HocTap\CSharp\TrainWPF\Models\obj\Debug\net8.0-windows\ref\Models.dll
+D:\LINH\DEV\WPFTraining\Models\obj\Debug\net8.0-windows\Models.csproj.AssemblyReference.cache
+D:\LINH\DEV\WPFTraining\Models\obj\Debug\net8.0-windows\Models.GeneratedMSBuildEditorConfig.editorconfig
+D:\LINH\DEV\WPFTraining\Models\obj\Debug\net8.0-windows\Models.AssemblyInfoInputs.cache
+D:\LINH\DEV\WPFTraining\Models\obj\Debug\net8.0-windows\Models.AssemblyInfo.cs
+D:\LINH\DEV\WPFTraining\Models\obj\Debug\net8.0-windows\Models.csproj.CoreCompileInputs.cache
+D:\LINH\DEV\WPFTraining\Models\obj\Debug\net8.0-windows\Models.sourcelink.json
+D:\LINH\DEV\WPFTraining\Models\bin\Debug\net8.0-windows\Models.deps.json
+D:\LINH\DEV\WPFTraining\Models\bin\Debug\net8.0-windows\Models.dll
+D:\LINH\DEV\WPFTraining\Models\bin\Debug\net8.0-windows\Models.pdb
+D:\LINH\DEV\WPFTraining\Models\obj\Debug\net8.0-windows\Models.dll
+D:\LINH\DEV\WPFTraining\Models\obj\Debug\net8.0-windows\refint\Models.dll
+D:\LINH\DEV\WPFTraining\Models\obj\Debug\net8.0-windows\Models.pdb
+D:\LINH\DEV\WPFTraining\Models\obj\Debug\net8.0-windows\ref\Models.dll

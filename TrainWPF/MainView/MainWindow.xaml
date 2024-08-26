@@ -5,32 +5,98 @@
     xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
     xmlns:local="clr-namespace:TrainWPF"
     xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    xmlns:vms="clr-namespace:TrainWPF.MainView"
     Title="MainWindow"
     Width="800"
     Height="450"
     mc:Ignorable="d">
 
+    <Window.DataContext>
+        <vms:MainViewModel />
+    </Window.DataContext>
+
     <Grid>
-        <Grid.ColumnDefinitions>
+        <!--<Grid.ColumnDefinitions>
             <ColumnDefinition Width="*" />
             <ColumnDefinition Width="3*" />
         </Grid.ColumnDefinitions>
-        <ListView 
+        <ListView
             Grid.Column="0"
-            ItemsSource="{Binding SideBarModel.SideBarItemList ,Mode=TwoWay}" 
-            SelectedItem="{Binding SideBarModel.SideBarItemSelected ,Mode = TwoWay}"/>
+            ItemsSource="{Binding SideBarModel.SideBarItemList, Mode=TwoWay}"
+            SelectedItem="{Binding SideBarModel.SideBarItemSelected, Mode=TwoWay}" />
 
         <ContentControl
             x:Name="ContentBag"
             Grid.Column="1"
-            Content="{Binding CurrentView, Mode=TwoWay}"/>
+            Content="{Binding CurrentView, Mode=TwoWay}" />-->
 
-        <Button Grid.Column="1"
-                Height="100"
-                Width="100"
-                Content="Add"
-                Command="{Binding SetCurrentViewCommand}">
-            
-        </Button>
+        <ListView ItemsSource="{Binding UserIds}">
+            <ListView.Template>
+                <ControlTemplate TargetType="ListView">
+                    <Grid Background="LightGray">
+
+                        <Grid.ColumnDefinitions>
+                            <ColumnDefinition Width="100" />
+                            <ColumnDefinition Width="*" />
+                            <ColumnDefinition Width="*" />
+                        </Grid.ColumnDefinitions>
+
+                        <Grid Background="Yellow" />
+
+                        <ScrollViewer Grid.Column="1" VerticalScrollBarVisibility="Auto">
+                            <ItemsPresenter />
+                        </ScrollViewer>
+
+                        <ScrollViewer Grid.Column="2" VerticalScrollBarVisibility="Auto">
+                            <ItemsPresenter />
+                        </ScrollViewer>
+
+                    </Grid>
+                </ControlTemplate>
+            </ListView.Template>
+            <ListView.ItemTemplate>
+                <DataTemplate>
+                    <StackPanel Orientation="Horizontal">
+                        <TextBlock Text="User id: " />
+                        <TextBlock Text="{Binding}" />
+                        <Button Content="Xóa" />
+                        <Button Click="Button_Click_1" Content="Thêm" />
+                    </StackPanel>
+                </DataTemplate>
+            </ListView.ItemTemplate>
+        </ListView>
+
+        <!--<Button
+            Grid.Column="1"
+            Width="100"
+            Height="100"
+            Command="{Binding SetCurrentViewCommand}"
+            Content="Add">
+            <Button.Template>
+                <ControlTemplate>
+                    <Border
+                        BorderBrush="Red"
+                        BorderThickness="1"
+                        CornerRadius="5">
+                        <Border.Style>
+                            <Style TargetType="Border">
+                                <Setter Property="Background" Value="Green" />
+                                <Style.Triggers>
+                                    <Trigger Property="IsMouseOver" Value="True">
+                                        <Setter Property="Background" Value="Blue" />
+                                    </Trigger>
+                                    <Trigger Property="IsMouseOver" Value="False">
+                                        <Setter Property="Background" Value="Green" />
+                                    </Trigger>
+                                </Style.Triggers>
+                            </Style>
+                        </Border.Style>
+                        <Grid>
+                            <ContentPresenter />
+                        </Grid>
+                    </Border>
+                </ControlTemplate>
+            </Button.Template>
+        </Button>-->
     </Grid>
 </Window>

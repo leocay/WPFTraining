@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "QUzn8mQNT+U=",
+  "dgSpecHash": "iNPXIv81v1s=",
   "success": true,
-  "projectFilePath": "D:\\HocTap\\CSharp\\TrainWPF\\Views\\Views.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "D:\\LINH\\DEV\\WPFTraining\\Views\\Views.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\linht\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.1\\microsoft.extensions.dependencyinjection.abstractions.8.0.1.nupkg.sha512"
+  ],
   "logs": []
 }

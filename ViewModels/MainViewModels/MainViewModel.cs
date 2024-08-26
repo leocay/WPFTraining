@@ -2,6 +2,7 @@
 using CommunityToolkit.Mvvm.Input;
 using Models.ViewControlModels;
 using System;
+using System.Collections.ObjectModel;
 using System.Windows;
 using System.Windows.Threading;
 using Views.AgiViews;
@@ -26,6 +27,9 @@ public partial class MainViewModel : ObservableObject
     private readonly StrView _strView;
     private readonly VitView _vitView;
     private readonly IntelView _intelView;
+
+    [ObservableProperty]
+    private ObservableCollection<int> _userIds = [1, 2, 3, 4, 5];
 
 
     public MainViewModel(AgiView agiView, StrView strView, VitView vitView, IntelView intelView)

@@ -1,11 +1,11 @@
 ﻿using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Hosting;
-using Models;
-using Quartz;
+//using Models;
+//using Quartz;
 using Serilog;
 using System.Windows;
-using ViewModels;
-using Views;
+//using ViewModels;
+//using Views;
 
 namespace TrainWPF
 {
@@ -20,9 +20,9 @@ namespace TrainWPF
             AppHost = Host.CreateDefaultBuilder()
                 .ConfigureServices((context, services) =>
                 {
-                    services.AddModels();
-                    services.AddViewModels();
-                    services.AddViews();
+                    //services.AddModels();
+                    //services.AddViewModels();
+                    //services.AddViews();
                     services.AddSystem();
                 }).Build();
         }

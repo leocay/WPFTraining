@@ -8,17 +8,16 @@
     ".NETCoreApp,Version=v8.0": {
       "TrainWPF/1.0.0": {
         "dependencies": {
+          "CommunityToolkit.Mvvm": "8.2.2",
+          "Microsoft.Extensions.DependencyInjection.Abstractions": "8.0.1",
           "Microsoft.Extensions.Hosting": "8.0.0",
-          "Models": "1.0.0",
           "Quartz": "3.13.0",
           "Quartz.AspNetCore": "3.13.0",
           "Quartz.Extensions.Hosting": "3.13.0",
           "Serilog": "4.0.1",
           "Serilog.Extensions.Logging": "8.0.0",
           "Serilog.Sinks.Debug": "3.0.0",
-          "Serilog.Sinks.File": "6.0.0",
-          "ViewModels": "1.0.0",
-          "Views": "1.0.0"
+          "Serilog.Sinks.File": "6.0.0"
         },
         "runtime": {
           "TrainWPF.dll": {}
@@ -515,31 +514,6 @@
         "dependencies": {
           "System.Text.Encodings.Web": "8.0.0"
         }
-      },
-      "Models/1.0.0": {
-        "dependencies": {
-          "CommunityToolkit.Mvvm": "8.2.2"
-        },
-        "runtime": {
-          "Models.dll": {}
-        }
-      },
-      "ViewModels/1.0.0": {
-        "dependencies": {
-          "CommunityToolkit.Mvvm": "8.2.2",
-          "Microsoft.Extensions.DependencyInjection.Abstractions": "8.0.1",
-          "Models": "1.0.0",
-          "Quartz.Extensions.Hosting": "3.13.0",
-          "Views": "1.0.0"
-        },
-        "runtime": {
-          "ViewModels.dll": {}
-        }
-      },
-      "Views/1.0.0": {
-        "runtime": {
-          "Views.dll": {}
-        }
       }
     }
   },
@@ -842,21 +816,6 @@
       "sha512": "sha512-OdrZO2WjkiEG6ajEFRABTRCi/wuXQPxeV6g8xvUJqdxMvvuCCEk86zPla8UiIQJz3durtUEbNyY/3lIhS0yZvQ==",
       "path": "system.text.json/8.0.0",
       "hashPath": "system.text.json.8.0.0.nupkg.sha512"
-    },
-    "Models/1.0.0": {
-      "type": "project",
-      "serviceable": false,
-      "sha512": ""
-    },
-    "ViewModels/1.0.0": {
-      "type": "project",
-      "serviceable": false,
-      "sha512": ""
-    },
-    "Views/1.0.0": {
-      "type": "project",
-      "serviceable": false,
-      "sha512": ""
     }
   }
 }

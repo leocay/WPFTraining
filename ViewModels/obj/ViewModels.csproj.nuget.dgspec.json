@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "D:\\HocTap\\CSharp\\TrainWPF\\ViewModels\\ViewModels.csproj": {}
+    "D:\\LINH\\DEV\\WPFTraining\\ViewModels\\ViewModels.csproj": {}
   },
   "projects": {
-    "D:\\HocTap\\CSharp\\TrainWPF\\Models\\Models.csproj": {
+    "D:\\LINH\\DEV\\WPFTraining\\Models\\Models.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\HocTap\\CSharp\\TrainWPF\\Models\\Models.csproj",
+        "projectUniqueName": "D:\\LINH\\DEV\\WPFTraining\\Models\\Models.csproj",
         "projectName": "Models",
-        "projectPath": "D:\\HocTap\\CSharp\\TrainWPF\\Models\\Models.csproj",
-        "packagesPath": "D:\\NugetDownLoad",
-        "outputPath": "D:\\HocTap\\CSharp\\TrainWPF\\Models\\obj\\",
+        "projectPath": "D:\\LINH\\DEV\\WPFTraining\\Models\\Models.csproj",
+        "packagesPath": "C:\\Users\\linht\\.nuget\\packages\\",
+        "outputPath": "D:\\LINH\\DEV\\WPFTraining\\Models\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "D:\\VisualStudio2022Shared\\NuGetPackages"
+          "D:\\Soft\\VisualStudio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\bk201\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\linht\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -53,6 +53,10 @@
             "CommunityToolkit.Mvvm": {
               "target": "Package",
               "version": "[8.2.2, )"
+            },
+            "Microsoft.Extensions.DependencyInjection.Abstractions": {
+              "target": "Package",
+              "version": "[8.0.1, )"
             }
           },
           "imports": [
@@ -74,24 +78,24 @@
               "privateAssets": "none"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.302/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "D:\\HocTap\\CSharp\\TrainWPF\\ViewModels\\ViewModels.csproj": {
+    "D:\\LINH\\DEV\\WPFTraining\\ViewModels\\ViewModels.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\HocTap\\CSharp\\TrainWPF\\ViewModels\\ViewModels.csproj",
+        "projectUniqueName": "D:\\LINH\\DEV\\WPFTraining\\ViewModels\\ViewModels.csproj",
         "projectName": "ViewModels",
-        "projectPath": "D:\\HocTap\\CSharp\\TrainWPF\\ViewModels\\ViewModels.csproj",
-        "packagesPath": "D:\\NugetDownLoad",
-        "outputPath": "D:\\HocTap\\CSharp\\TrainWPF\\ViewModels\\obj\\",
+        "projectPath": "D:\\LINH\\DEV\\WPFTraining\\ViewModels\\ViewModels.csproj",
+        "packagesPath": "C:\\Users\\linht\\.nuget\\packages\\",
+        "outputPath": "D:\\LINH\\DEV\\WPFTraining\\ViewModels\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "D:\\VisualStudio2022Shared\\NuGetPackages"
+          "D:\\Soft\\VisualStudio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\bk201\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\linht\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -107,11 +111,11 @@
           "net8.0-windows7.0": {
             "targetAlias": "net8.0-windows",
             "projectReferences": {
-              "D:\\HocTap\\CSharp\\TrainWPF\\Models\\Models.csproj": {
-                "projectPath": "D:\\HocTap\\CSharp\\TrainWPF\\Models\\Models.csproj"
+              "D:\\LINH\\DEV\\WPFTraining\\Models\\Models.csproj": {
+                "projectPath": "D:\\LINH\\DEV\\WPFTraining\\Models\\Models.csproj"
               },
-              "D:\\HocTap\\CSharp\\TrainWPF\\Views\\Views.csproj": {
-                "projectPath": "D:\\HocTap\\CSharp\\TrainWPF\\Views\\Views.csproj"
+              "D:\\LINH\\DEV\\WPFTraining\\Views\\Views.csproj": {
+                "projectPath": "D:\\LINH\\DEV\\WPFTraining\\Views\\Views.csproj"
               }
             }
           }
@@ -163,24 +167,24 @@
               "privateAssets": "none"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.302/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "D:\\HocTap\\CSharp\\TrainWPF\\Views\\Views.csproj": {
+    "D:\\LINH\\DEV\\WPFTraining\\Views\\Views.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\HocTap\\CSharp\\TrainWPF\\Views\\Views.csproj",
+        "projectUniqueName": "D:\\LINH\\DEV\\WPFTraining\\Views\\Views.csproj",
         "projectName": "Views",
-        "projectPath": "D:\\HocTap\\CSharp\\TrainWPF\\Views\\Views.csproj",
-        "packagesPath": "D:\\NugetDownLoad",
-        "outputPath": "D:\\HocTap\\CSharp\\TrainWPF\\Views\\obj\\",
+        "projectPath": "D:\\LINH\\DEV\\WPFTraining\\Views\\Views.csproj",
+        "packagesPath": "C:\\Users\\linht\\.nuget\\packages\\",
+        "outputPath": "D:\\LINH\\DEV\\WPFTraining\\Views\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "D:\\VisualStudio2022Shared\\NuGetPackages"
+          "D:\\Soft\\VisualStudio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\bk201\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\linht\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -212,6 +216,12 @@
       "frameworks": {
         "net8.0-windows7.0": {
           "targetAlias": "net8.0-windows",
+          "dependencies": {
+            "Microsoft.Extensions.DependencyInjection.Abstractions": {
+              "target": "Package",
+              "version": "[8.0.1, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
@@ -231,7 +241,7 @@
               "privateAssets": "none"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.302/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

@@ -843,55 +843,6 @@
         "build": {
           "buildTransitive/net6.0/System.Text.Json.targets": {}
         }
-      },
-      "Models/1.0.0": {
-        "type": "project",
-        "framework": ".NETCoreApp,Version=v8.0",
-        "dependencies": {
-          "CommunityToolkit.Mvvm": "8.2.2"
-        },
-        "compile": {
-          "bin/placeholder/Models.dll": {}
-        },
-        "runtime": {
-          "bin/placeholder/Models.dll": {}
-        },
-        "frameworkReferences": [
-          "Microsoft.WindowsDesktop.App.WPF"
-        ]
-      },
-      "ViewModels/1.0.0": {
-        "type": "project",
-        "framework": ".NETCoreApp,Version=v8.0",
-        "dependencies": {
-          "CommunityToolkit.Mvvm": "8.2.2",
-          "Microsoft.Extensions.DependencyInjection.Abstractions": "8.0.1",
-          "Models": "1.0.0",
-          "Quartz.Extensions.Hosting": "3.13.0",
-          "Views": "1.0.0"
-        },
-        "compile": {
-          "bin/placeholder/ViewModels.dll": {}
-        },
-        "runtime": {
-          "bin/placeholder/ViewModels.dll": {}
-        },
-        "frameworkReferences": [
-          "Microsoft.WindowsDesktop.App.WPF"
-        ]
-      },
-      "Views/1.0.0": {
-        "type": "project",
-        "framework": ".NETCoreApp,Version=v8.0",
-        "compile": {
-          "bin/placeholder/Views.dll": {}
-        },
-        "runtime": {
-          "bin/placeholder/Views.dll": {}
-        },
-        "frameworkReferences": [
-          "Microsoft.WindowsDesktop.App.WPF"
-        ]
       }
     }
   },
@@ -2202,56 +2153,40 @@
         "system.text.json.nuspec",
         "useSharedDesignerContext.txt"
       ]
-    },
-    "Models/1.0.0": {
-      "type": "project",
-      "path": "../Models/Models.csproj",
-      "msbuildProject": "../Models/Models.csproj"
-    },
-    "ViewModels/1.0.0": {
-      "type": "project",
-      "path": "../ViewModels/ViewModels.csproj",
-      "msbuildProject": "../ViewModels/ViewModels.csproj"
-    },
-    "Views/1.0.0": {
-      "type": "project",
-      "path": "../Views/Views.csproj",
-      "msbuildProject": "../Views/Views.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net8.0-windows7.0": [
+      "CommunityToolkit.Mvvm >= 8.2.2",
+      "Microsoft.Extensions.DependencyInjection.Abstractions >= 8.0.1",
       "Microsoft.Extensions.Hosting >= 8.0.0",
-      "Models >= 1.0.0",
       "Quartz >= 3.13.0",
       "Quartz.AspNetCore >= 3.13.0",
       "Quartz.Extensions.Hosting >= 3.13.0",
       "Serilog >= 4.0.1",
       "Serilog.Extensions.Logging >= 8.0.0",
       "Serilog.Sinks.Debug >= 3.0.0",
-      "Serilog.Sinks.File >= 6.0.0",
-      "ViewModels >= 1.0.0",
-      "Views >= 1.0.0"
+      "Serilog.Sinks.File >= 6.0.0"
     ]
   },
   "packageFolders": {
-    "D:\\NugetDownLoad": {},
-    "D:\\VisualStudio2022Shared\\NuGetPackages": {}
+    "C:\\Users\\linht\\.nuget\\packages\\": {},
+    "D:\\Soft\\VisualStudio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\HocTap\\CSharp\\TrainWPF\\TrainWPF\\TrainWPF.csproj",
+      "projectUniqueName": "D:\\LINH\\DEV\\WPFTraining\\TrainWPF\\TrainWPF.csproj",
       "projectName": "TrainWPF",
-      "projectPath": "D:\\HocTap\\CSharp\\TrainWPF\\TrainWPF\\TrainWPF.csproj",
-      "packagesPath": "D:\\NugetDownLoad",
-      "outputPath": "D:\\HocTap\\CSharp\\TrainWPF\\TrainWPF\\obj\\",
+      "projectPath": "D:\\LINH\\DEV\\WPFTraining\\TrainWPF\\TrainWPF.csproj",
+      "packagesPath": "C:\\Users\\linht\\.nuget\\packages\\",
+      "outputPath": "D:\\LINH\\DEV\\WPFTraining\\TrainWPF\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
-        "D:\\VisualStudio2022Shared\\NuGetPackages"
+        "D:\\Soft\\VisualStudio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\bk201\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\linht\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
@@ -2266,17 +2201,7 @@
       "frameworks": {
         "net8.0-windows7.0": {
           "targetAlias": "net8.0-windows",
-          "projectReferences": {
-            "D:\\HocTap\\CSharp\\TrainWPF\\Models\\Models.csproj": {
-              "projectPath": "D:\\HocTap\\CSharp\\TrainWPF\\Models\\Models.csproj"
-            },
-            "D:\\HocTap\\CSharp\\TrainWPF\\ViewModels\\ViewModels.csproj": {
-              "projectPath": "D:\\HocTap\\CSharp\\TrainWPF\\ViewModels\\ViewModels.csproj"
-            },
-            "D:\\HocTap\\CSharp\\TrainWPF\\Views\\Views.csproj": {
-              "projectPath": "D:\\HocTap\\CSharp\\TrainWPF\\Views\\Views.csproj"
-            }
-          }
+          "projectReferences": {}
         }
       },
       "warningProperties": {
@@ -2294,6 +2219,14 @@
       "net8.0-windows7.0": {
         "targetAlias": "net8.0-windows",
         "dependencies": {
+          "CommunityToolkit.Mvvm": {
+            "target": "Package",
+            "version": "[8.2.2, )"
+          },
+          "Microsoft.Extensions.DependencyInjection.Abstractions": {
+            "target": "Package",
+            "version": "[8.0.1, )"
+          },
           "Microsoft.Extensions.Hosting": {
             "target": "Package",
             "version": "[8.0.0, )"
@@ -2346,7 +2279,7 @@
             "privateAssets": "none"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.302/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400/PortableRuntimeIdentifierGraph.json"
       }
     }
   }
