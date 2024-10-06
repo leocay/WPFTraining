@@ -117,6 +117,7 @@ public partial class MainViewModel : ObservableObject
             }
             catch
             {
+
             }
         });
     }
