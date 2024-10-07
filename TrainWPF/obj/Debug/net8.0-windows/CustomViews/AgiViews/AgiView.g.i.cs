@@ -53,7 +53,7 @@ namespace TrainWPF.CustomViews.AgiViews {
                 return;
             }
             _contentLoaded = true;
-            System.Uri resourceLocater = new System.Uri("/TrainWPF;component/customviews/agiviews/agiview.xaml", System.UriKind.Relative);
+            System.Uri resourceLocater = new System.Uri("/TrainWPF;V1.0.0.0;component/customviews/agiviews/agiview.xaml", System.UriKind.Relative);
             
             #line 1 "..\..\..\..\..\CustomViews\AgiViews\AgiView.xaml"
             System.Windows.Application.LoadComponent(this, resourceLocater);

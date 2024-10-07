@@ -17,7 +17,7 @@ namespace ViewModels.ResponseService
         {
             using var httpClient = new HttpClient();
             StringContent? jsonContent = new(JsonConvert.SerializeObject(user), Encoding.UTF8, "application/json");
-            var url = "http://localhost:5154/api/auth/token";
+            var url = "http://192.168.1.49:5154/api/auth/token";
             try
             {
                 HttpResponseMessage? responseMessage = await httpClient.PostAsync(url, jsonContent);

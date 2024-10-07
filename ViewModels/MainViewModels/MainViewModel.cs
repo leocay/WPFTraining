@@ -113,7 +113,7 @@ public partial class MainViewModel : ObservableObject
         {
             try
             {
-                await hub.InvokeAsync("CreateMeeting", "request");
+                await hub.InvokeAsync("UpdateMap", "request");
             }
             catch
             {

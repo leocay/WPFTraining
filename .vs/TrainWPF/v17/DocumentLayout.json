@@ -7,28 +7,12 @@
       "RelativeMoniker": "D:0:0:{212576A5-483C-410E-BD99-159C0E9FF294}|ViewModels\\ViewModels.csproj|solutionrelative:viewmodels\\mainviewmodels\\mainviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F1F386DE-7295-4059-A9AB-EE82FFE77F55}|TrainWPF\\TrainWPF.csproj|d:\\hoctap\\csharp\\trainwpf\\trainwpf\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F1F386DE-7295-4059-A9AB-EE82FFE77F55}|TrainWPF\\TrainWPF.csproj|solutionrelative:trainwpf\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{212576A5-483C-410E-BD99-159C0E9FF294}|ViewModels\\ViewModels.csproj|d:\\hoctap\\csharp\\trainwpf\\viewmodels\\responseservice\\objectresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{212576A5-483C-410E-BD99-159C0E9FF294}|ViewModels\\ViewModels.csproj|solutionrelative:viewmodels\\responseservice\\objectresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F1F386DE-7295-4059-A9AB-EE82FFE77F55}|TrainWPF\\TrainWPF.csproj|d:\\hoctap\\csharp\\trainwpf\\trainwpf\\mainview\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{F1F386DE-7295-4059-A9AB-EE82FFE77F55}|TrainWPF\\TrainWPF.csproj|solutionrelative:trainwpf\\mainview\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F1F386DE-7295-4059-A9AB-EE82FFE77F55}|TrainWPF\\TrainWPF.csproj|d:\\hoctap\\csharp\\trainwpf\\trainwpf\\mainview\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F1F386DE-7295-4059-A9AB-EE82FFE77F55}|TrainWPF\\TrainWPF.csproj|solutionrelative:trainwpf\\mainview\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{649E20DF-D91F-42E0-AA48-F367BA01F14A}|Models\\Models.csproj|d:\\hoctap\\csharp\\trainwpf\\models\\viewcontrolmodels\\sidebarmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{649E20DF-D91F-42E0-AA48-F367BA01F14A}|Models\\Models.csproj|solutionrelative:models\\viewcontrolmodels\\sidebarmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{212576A5-483C-410E-BD99-159C0E9FF294}|ViewModels\\ViewModels.csproj|d:\\hoctap\\csharp\\trainwpf\\viewmodels\\mainviewmodels\\viewmodelbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{212576A5-483C-410E-BD99-159C0E9FF294}|ViewModels\\ViewModels.csproj|solutionrelative:viewmodels\\mainviewmodels\\viewmodelbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F1F386DE-7295-4059-A9AB-EE82FFE77F55}|TrainWPF\\TrainWPF.csproj|d:\\hoctap\\csharp\\trainwpf\\trainwpf\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F1F386DE-7295-4059-A9AB-EE82FFE77F55}|TrainWPF\\TrainWPF.csproj|solutionrelative:trainwpf\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{212576A5-483C-410E-BD99-159C0E9FF294}|ViewModels\\ViewModels.csproj|d:\\hoctap\\csharp\\trainwpf\\viewmodels\\signalr\\serverconnection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{212576A5-483C-410E-BD99-159C0E9FF294}|ViewModels\\ViewModels.csproj|solutionrelative:viewmodels\\signalr\\serverconnection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -38,85 +22,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 7,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "App.xaml.cs",
-              "DocumentMoniker": "D:\\HocTap\\CSharp\\TrainWPF\\TrainWPF\\App.xaml.cs",
-              "RelativeDocumentMoniker": "TrainWPF\\App.xaml.cs",
-              "ToolTip": "D:\\HocTap\\CSharp\\TrainWPF\\TrainWPF\\App.xaml.cs",
-              "RelativeToolTip": "TrainWPF\\App.xaml.cs",
-              "ViewState": "AgIAACIAAAAAAAAAAIAwwC8AAAAIAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-16T15:26:07.631Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "DependencyInjection.cs",
-              "DocumentMoniker": "D:\\HocTap\\CSharp\\TrainWPF\\TrainWPF\\DependencyInjection.cs",
-              "RelativeDocumentMoniker": "TrainWPF\\DependencyInjection.cs",
-              "ToolTip": "D:\\HocTap\\CSharp\\TrainWPF\\TrainWPF\\DependencyInjection.cs",
-              "RelativeToolTip": "TrainWPF\\DependencyInjection.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-16T15:25:51.376Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "MainWindow.xaml.cs",
-              "DocumentMoniker": "D:\\HocTap\\CSharp\\TrainWPF\\TrainWPF\\MainView\\MainWindow.xaml.cs",
-              "RelativeDocumentMoniker": "TrainWPF\\MainView\\MainWindow.xaml.cs",
-              "ToolTip": "D:\\HocTap\\CSharp\\TrainWPF\\TrainWPF\\MainView\\MainWindow.xaml.cs",
-              "RelativeToolTip": "TrainWPF\\MainView\\MainWindow.xaml.cs",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-16T14:52:43.385Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "MainWindow.xaml",
-              "DocumentMoniker": "D:\\HocTap\\CSharp\\TrainWPF\\TrainWPF\\MainView\\MainWindow.xaml",
-              "RelativeDocumentMoniker": "TrainWPF\\MainView\\MainWindow.xaml",
-              "ToolTip": "D:\\HocTap\\CSharp\\TrainWPF\\TrainWPF\\MainView\\MainWindow.xaml",
-              "RelativeToolTip": "TrainWPF\\MainView\\MainWindow.xaml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-08-16T14:52:41.07Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "ViewModelBase.cs",
-              "DocumentMoniker": "D:\\HocTap\\CSharp\\TrainWPF\\ViewModels\\MainViewModels\\ViewModelBase.cs",
-              "RelativeDocumentMoniker": "ViewModels\\MainViewModels\\ViewModelBase.cs",
-              "ToolTip": "D:\\HocTap\\CSharp\\TrainWPF\\ViewModels\\MainViewModels\\ViewModelBase.cs",
-              "RelativeToolTip": "ViewModels\\MainViewModels\\ViewModelBase.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-16T14:50:37.553Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "SideBarModel.cs",
-              "DocumentMoniker": "D:\\HocTap\\CSharp\\TrainWPF\\Models\\ViewControlModels\\SideBarModel.cs",
-              "RelativeDocumentMoniker": "Models\\ViewControlModels\\SideBarModel.cs",
-              "ToolTip": "D:\\HocTap\\CSharp\\TrainWPF\\Models\\ViewControlModels\\SideBarModel.cs",
-              "RelativeToolTip": "Models\\ViewControlModels\\SideBarModel.cs",
-              "ViewState": "AQIAAAsAAAAAAAAAAAAQwBcAAAAKAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-16T14:25:32.136Z"
             },
             {
               "$type": "Document",
@@ -126,9 +36,35 @@
               "RelativeDocumentMoniker": "ViewModels\\MainViewModels\\MainViewModel.cs",
               "ToolTip": "D:\\HocTap\\CSharp\\TrainWPF\\ViewModels\\MainViewModels\\MainViewModel.cs",
               "RelativeToolTip": "ViewModels\\MainViewModels\\MainViewModel.cs",
-              "ViewState": "AgIAAGMAAAAAAAAAAAAowHAAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAFEAAAAAAAAAAAA4wGYAAAA8AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-14T16:11:03.36Z",
+              "WhenOpened": "2024-10-07T15:23:38.074Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ObjectResponse.cs",
+              "DocumentMoniker": "D:\\HocTap\\CSharp\\TrainWPF\\ViewModels\\ResponseService\\ObjectResponse.cs",
+              "RelativeDocumentMoniker": "ViewModels\\ResponseService\\ObjectResponse.cs",
+              "ToolTip": "D:\\HocTap\\CSharp\\TrainWPF\\ViewModels\\ResponseService\\ObjectResponse.cs",
+              "RelativeToolTip": "ViewModels\\ResponseService\\ObjectResponse.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAAAB8AAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-07T15:19:59.849Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ServerConnection.cs",
+              "DocumentMoniker": "D:\\HocTap\\CSharp\\TrainWPF\\ViewModels\\SignalR\\ServerConnection.cs",
+              "RelativeDocumentMoniker": "ViewModels\\SignalR\\ServerConnection.cs",
+              "ToolTip": "D:\\HocTap\\CSharp\\TrainWPF\\ViewModels\\SignalR\\ServerConnection.cs",
+              "RelativeToolTip": "ViewModels\\SignalR\\ServerConnection.cs",
+              "ViewState": "AgIAADsAAAAAAAAAAAAgwDAAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-06T14:30:21.245Z",
               "EditorCaption": ""
             }
           ]

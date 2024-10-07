@@ -37,7 +37,7 @@ namespace ViewModels.SignalR
             try
             {
                 _connection = new HubConnectionBuilder()
-                .WithUrl("http://localhost:5154/meetingHub/",option =>
+                .WithUrl("http://192.168.1.49:5154/meetingHub/", option =>
                 {
                     option.AccessTokenProvider = async () => await Task.FromResult(AccessToken.Instance.Token);
                 })
@@ -60,7 +60,7 @@ namespace ViewModels.SignalR
             }
             catch (Exception ex)
             {
-                //  throw new Exception("Connect to project-service's hub false.", ex);
+                throw new Exception("Connect to project-service's hub false.", ex);
             }
         }
 

@@ -61,7 +61,7 @@ namespace TrainWPF {
                 return;
             }
             _contentLoaded = true;
-            System.Uri resourceLocater = new System.Uri("/TrainWPF;component/mainview/mainwindow.xaml", System.UriKind.Relative);
+            System.Uri resourceLocater = new System.Uri("/TrainWPF;V1.0.0.0;component/mainview/mainwindow.xaml", System.UriKind.Relative);
             
             #line 1 "..\..\..\..\MainView\MainWindow.xaml"
             System.Windows.Application.LoadComponent(this, resourceLocater);
